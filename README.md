@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @buihoaib
-- 👀 I’m interested in Web and Mobile Development
+- 👀 I’m interested in Frontend Development and UX/UI Design
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on React Native and ReactJS/AngularJS projects
 - 📫 How to reach me buihoaib@gmail.com
